@@ -1,0 +1,19 @@
+{
+  "capacity": 50,
+  "id": "kp_n1000_c50_v1",
+  "items": [
+    61,
+    311,
+    510,
+    760
+  ],
+  "lb": 3192,
+  "optimal_profit_denominator": 1000,
+  "optimal_profit_float": 3.192,
+  "optimal_profit_numerator": 3192,
+  "optimality_proof": "EXACT_0_1_DP_FULL_TABLE",
+  "schema": "orlab-public/kp-solution/v1",
+  "state": "PROVEN_OPTIMAL",
+  "ub": 3192,
+  "used_weight": 46
+}

@@ -1,0 +1,30 @@
+{
+  "attribution": "OptFin OR-Lab (optfin.org) - authored construction",
+  "capacity": 5592405,
+  "construction": "positional carry-free vertex encoding; items=edges, w_e=B^a+B^b, C=sum_j B^j, radix B=4 (>max degree 3); capacity-tight bin <=> perfect matching; 3 tight bins <=> proper 3-edge-colouring; snark => OPT=4, z_LP=3.",
+  "family": "snark-construction (non-IRUP, gap-1)",
+  "id": "flower_J3",
+  "n": 18,
+  "problem": "bin_packing",
+  "schema": "orlab-public/bpp-instance/v1",
+  "weights": [
+    5,
+    17,
+    65,
+    1280,
+    4352,
+    16640,
+    327680,
+    1114112,
+    4259840,
+    1028,
+    263168,
+    262148,
+    4112,
+    16448,
+    1052672,
+    4210688,
+    1048640,
+    4194320
+  ]
+}

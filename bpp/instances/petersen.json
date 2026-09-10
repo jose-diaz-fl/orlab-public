@@ -1,0 +1,27 @@
+{
+  "attribution": "OptFin OR-Lab (optfin.org) - authored construction",
+  "capacity": 349525,
+  "construction": "positional carry-free vertex encoding; items=edges, w_e=B^a+B^b, C=sum_j B^j, radix B=4 (>max degree 3); capacity-tight bin <=> perfect matching; 3 tight bins <=> proper 3-edge-colouring; snark => OPT=4, z_LP=3.",
+  "family": "snark-construction (non-IRUP, gap-1)",
+  "id": "petersen",
+  "n": 15,
+  "problem": "bin_packing",
+  "schema": "orlab-public/bpp-instance/v1",
+  "weights": [
+    5,
+    1025,
+    17408,
+    20,
+    4100,
+    69632,
+    80,
+    16400,
+    278528,
+    320,
+    65600,
+    66560,
+    257,
+    262400,
+    266240
+  ]
+}

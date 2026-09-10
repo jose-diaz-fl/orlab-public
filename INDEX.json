@@ -1,0 +1,243 @@
+{
+  "attribution": "OptFin OR-Lab - https://optfin.org",
+  "file_count": 52,
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "4076e72eb30b0d0545601e6bfabaf6dc09a194d5b921915d290417db28828550"
+    },
+    {
+      "path": "LICENSES.md",
+      "sha256": "ef09f322867d3cd472ff527ac92b25b7ab4ce69ba2c8885284b3886ef1b7c153"
+    },
+    {
+      "path": "README.md",
+      "sha256": "bc6e7a57df674e2302d1a99462890ec8f51176751fab512da2b49c7c99fb21af"
+    },
+    {
+      "path": "bpp/instances/flower_J11.json",
+      "sha256": "1686e7a16a3d6865e885344d0683e8c4903441db985700bc6a4207455c12cd13"
+    },
+    {
+      "path": "bpp/instances/flower_J13.json",
+      "sha256": "5322ce2f728853c417f360fd0bc48b5995c350ed3fbc46422e2f2a34252deb52"
+    },
+    {
+      "path": "bpp/instances/flower_J15.json",
+      "sha256": "55297515fb83ebc767e5ad31c8d640cf17a39a7a9636f82673cfa16aa8eb1fc1"
+    },
+    {
+      "path": "bpp/instances/flower_J17.json",
+      "sha256": "ff42dc03fe4658a21ce7edf2e201f1de39c2509fda6171bb26a055d84bdef0dc"
+    },
+    {
+      "path": "bpp/instances/flower_J19.json",
+      "sha256": "cfd515c745571774976e28949800b1caa71096d812e856887acd615817019896"
+    },
+    {
+      "path": "bpp/instances/flower_J21.json",
+      "sha256": "82c95321d089558884773308490f04bd2add2a34c56253bbdf622d910a9d1171"
+    },
+    {
+      "path": "bpp/instances/flower_J3.json",
+      "sha256": "e4d2102584391b82ee966ed4fdaae472b8dfadcd128c8bfded9b023c0f317d56"
+    },
+    {
+      "path": "bpp/instances/flower_J5.json",
+      "sha256": "19e5cc0c8d9d69701ae9fdb4a30054ac0ac94262b2d2f05b7f0246c7af64a69e"
+    },
+    {
+      "path": "bpp/instances/flower_J7.json",
+      "sha256": "5dcc5ce5301e6882b60e84c3c2d1f9a8e7c3fc00b2a1d2f0183037441524fa92"
+    },
+    {
+      "path": "bpp/instances/flower_J9.json",
+      "sha256": "623162fbf741b4a71924747928b945e9c7cf6feab2d5c92a0f3274769f7e8057"
+    },
+    {
+      "path": "bpp/instances/petersen.json",
+      "sha256": "912bd9302d8c9628970d89e2d8863b617d713348a594d4127b716a66e7898dca"
+    },
+    {
+      "path": "bpp/plots/flower_J11.svg",
+      "sha256": "c348f179709e869c9d93633a3aaa5d6b77c0ac32d6e0ba44188a4196532db30c"
+    },
+    {
+      "path": "bpp/plots/flower_J13.svg",
+      "sha256": "253dc95ddf11fa2ad9fb0fb0da855234bfc3fe7c5adeb9d9b04c7e33f9014f2c"
+    },
+    {
+      "path": "bpp/plots/flower_J15.svg",
+      "sha256": "d92f2b69cb33a1915e080e1485519a8c83c8c4f2512698c012ad642f426e6f3c"
+    },
+    {
+      "path": "bpp/plots/flower_J17.svg",
+      "sha256": "3e00e30bbb6de3bcff808f3c5b1a9f051e7a59b782ae93a169f0f654d2a40570"
+    },
+    {
+      "path": "bpp/plots/flower_J19.svg",
+      "sha256": "4dc5bad3d191cef4f718fec9495f5e95af4f3f4cb5c55d344d9558386c2a0b6e"
+    },
+    {
+      "path": "bpp/plots/flower_J21.svg",
+      "sha256": "5ed408302a831e9b9c8c56711da3bca04628afd31552e4c41b810de9cccf3315"
+    },
+    {
+      "path": "bpp/plots/flower_J3.svg",
+      "sha256": "bdac70407715b58f213bae763bb4c51123c09ce3db324a049c3f1d36c523eb75"
+    },
+    {
+      "path": "bpp/plots/flower_J5.svg",
+      "sha256": "58d83f850fe0cee75b4ae5b383e2e4bd324b19c23e6ad3880562665a5f416609"
+    },
+    {
+      "path": "bpp/plots/flower_J7.svg",
+      "sha256": "4b6f082a098ccd9d2e473ed44a4ba43894a24124fa219f4d9f2f00e6cc0f6b5e"
+    },
+    {
+      "path": "bpp/plots/flower_J9.svg",
+      "sha256": "eb0d10724bda3ccce3d7410de5f1ae248c5d2dc970b798162b89a86e9b9c6f08"
+    },
+    {
+      "path": "bpp/plots/petersen.svg",
+      "sha256": "43f12a7efdea46891d48d79661202358dcdadf1911e3cc1c4583c898b34fdf23"
+    },
+    {
+      "path": "bpp/solutions/flower_J11.json",
+      "sha256": "42c292776a43ed5e251fa4324180f7ef56cc8303a10edf57ff1941772255fb64"
+    },
+    {
+      "path": "bpp/solutions/flower_J13.json",
+      "sha256": "5cc4e232eba55dc16f21222d34b0f28fbf0367318035bc366b341eceb562466d"
+    },
+    {
+      "path": "bpp/solutions/flower_J15.json",
+      "sha256": "767813c14d4cc4972be9919bce1338c92d36b9fa6f550288c58856b60f200ecd"
+    },
+    {
+      "path": "bpp/solutions/flower_J17.json",
+      "sha256": "55c67091d6ae139598edd8169d2fc8e06883df7d994caadc2951a7a7ab6557bf"
+    },
+    {
+      "path": "bpp/solutions/flower_J19.json",
+      "sha256": "c93b3feb78a98c55a437e10883c898a2a4e5b9c4056cb1ba87768ce90b1ea1a4"
+    },
+    {
+      "path": "bpp/solutions/flower_J21.json",
+      "sha256": "8fabd2120bd18efcc18042139821180b665e8187447e719cd4d08ce88e244341"
+    },
+    {
+      "path": "bpp/solutions/flower_J3.json",
+      "sha256": "1d80a3daaf290d615880577db2bb7fff90200a8c4570dd0a4de14fe87ce31e59"
+    },
+    {
+      "path": "bpp/solutions/flower_J5.json",
+      "sha256": "189ffc66b49bc3276a4cdef8e166287b16154ea1c1824b7ec858ad37be1adffa"
+    },
+    {
+      "path": "bpp/solutions/flower_J7.json",
+      "sha256": "b481425fb652a65ca63b078809e300e45f8e45892f003e27c69b59f5ca7b4367"
+    },
+    {
+      "path": "bpp/solutions/flower_J9.json",
+      "sha256": "8b2edf45a47605792175d4cd7836a04323e3a519278cd4900209bfee5235bee3"
+    },
+    {
+      "path": "bpp/solutions/petersen.json",
+      "sha256": "cd7465b95b1c03e4bf9e268e5c77d570b0d2ed678057b2baa717e399cb0156a7"
+    },
+    {
+      "path": "bpp/verification/flower_J11_verify.py",
+      "sha256": "a6a6ed807cd14223f50f48389575e2b2a65033a3f347c99370e4e1f79d408e86"
+    },
+    {
+      "path": "bpp/verification/flower_J13_verify.py",
+      "sha256": "481e76387973026b964cae9b8be5ccc16b3ce49f093420a78645f8ed997555d9"
+    },
+    {
+      "path": "bpp/verification/flower_J15_verify.py",
+      "sha256": "bd72de6674fe403ec1ec22e8088bef67af1eb4b985d5660f498dea4bfc0ecf9d"
+    },
+    {
+      "path": "bpp/verification/flower_J17_verify.py",
+      "sha256": "c84c0cdb72384627323d8d6aa8598bad459b499a7385a8aba1985c54d9de737e"
+    },
+    {
+      "path": "bpp/verification/flower_J19_verify.py",
+      "sha256": "d707e0917caea5ce0b80dcade759438394bc7af9d635b36c8a23aff68ec058a1"
+    },
+    {
+      "path": "bpp/verification/flower_J21_verify.py",
+      "sha256": "884cce58e4ec9d9b5e93c7eb37c9a26f723d8814c4d76a4a72d6d18608211288"
+    },
+    {
+      "path": "bpp/verification/flower_J3_verify.py",
+      "sha256": "d1c4a1d6edc11cde1a7bdaeae166108b36381f387f4ecad7421a05b1527e123c"
+    },
+    {
+      "path": "bpp/verification/flower_J5_verify.py",
+      "sha256": "e32fa62c0fc55c2e0de522423292a5672bca9988b5748f82eaefbee550c5d96e"
+    },
+    {
+      "path": "bpp/verification/flower_J7_verify.py",
+      "sha256": "22ea32c7b838270f3a42abcf4ac3cbae9269b87e6b6c5ee337a96415ed16aad3"
+    },
+    {
+      "path": "bpp/verification/flower_J9_verify.py",
+      "sha256": "0cbfb0be053328ec365531dbc1b7d3f8c9e193aa80494eb6b5a5e79407e1b4e5"
+    },
+    {
+      "path": "bpp/verification/petersen_verify.py",
+      "sha256": "98b94b11e36dcbe28c970f0f9b4392774386b49bf7f507d076fe7756cca7379e"
+    },
+    {
+      "path": "kp/instances/kp_n1000_c50_v1.json",
+      "sha256": "9b031b061935a234be38d938efc02fee8c8b7fe16cb29a78363c00d9e8ef1704"
+    },
+    {
+      "path": "kp/plots/kp_n1000_c50_v1.svg",
+      "sha256": "717d05a93ee0f6a41bf40f0f1052ebb8f3fcbf5c28c5fa6b186f3cee6ec128ed"
+    },
+    {
+      "path": "kp/solutions/kp_n1000_c50_v1.json",
+      "sha256": "d7a2cc16d33b7044a970a7253a4517b4b9c35afc200fd7843a9d027b08fc08a4"
+    },
+    {
+      "path": "kp/verification/kp_n1000_c50_v1_verify.py",
+      "sha256": "e2468ab26bbfec3ad58e4ae188f9b697b8177d539c640bd57c8c8c421310aeec"
+    },
+    {
+      "path": "tools/generate_public_benchmark.py",
+      "sha256": "de4aaa474e7c2a50c8cd1222f5dba6313c2521c716a5560c479a180e7fa30e1c"
+    }
+  ],
+  "generator": {
+    "deterministic": true,
+    "file": "tools/generate_public_benchmark.py",
+    "idempotent": true
+  },
+  "publish_state": "DRAFT_PENDING_APPROVAL",
+  "schema": "orlab-public/benchmark-index/v1",
+  "summary": [
+    {
+      "feasible": 3,
+      "instances_count": 11,
+      "open": 0,
+      "problem": "bpp",
+      "proven_optimal": 8,
+      "with_solution": 11,
+      "with_svg": 11,
+      "with_verification": 11
+    },
+    {
+      "feasible": 0,
+      "instances_count": 1,
+      "open": 0,
+      "problem": "kp",
+      "proven_optimal": 1,
+      "with_solution": 1,
+      "with_svg": 1,
+      "with_verification": 1
+    }
+  ]
+}

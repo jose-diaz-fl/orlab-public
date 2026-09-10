@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="510" viewBox="0 0 650 510" font-family="Helvetica,Arial,sans-serif">
+  <title>BPP petersen</title>
+  <rect x="0" y="0" width="650" height="510" fill="#ffffff"/>
+  <text x="70" y="30" font-size="15" text-anchor="start" font-weight="bold" fill="#111111">OptFin OR-Lab  |  BPP (non-IRUP snark)  |  instance: petersen</text>
+  <text x="70" y="50" font-size="12" text-anchor="start" font-weight="normal" fill="#444444">capacity C = 349525   items n = 15   bins used = 4   state = PROVEN_OPTIMAL   LB = 4  UB = 4</text>
+  <rect x="70" y="70" width="90" height="320" fill="none" stroke="#cbd5e0" stroke-width="1.5"/>
+  <rect x="70" y="388.00" width="90" height="2.00" fill="#dd6b20" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <rect x="70" y="386.00" width="90" height="2.00" fill="#805ad5" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <rect x="70" y="322.25" width="90" height="63.75" fill="#319795" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <text x="115" y="358" font-size="10" text-anchor="middle" font-weight="normal" fill="#ffffff">e5</text>
+  <rect x="70" y="67.25" width="90" height="255.00" fill="#2b6cb0" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <text x="115" y="198" font-size="10" text-anchor="middle" font-weight="normal" fill="#ffffff">e8</text>
+  <rect x="70" y="65.25" width="90" height="2.00" fill="#dd6b20" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <text x="115" y="410" font-size="12" text-anchor="middle" font-weight="bold" fill="#111111">bin 0</text>
+  <text x="115" y="426" font-size="10" text-anchor="middle" font-weight="normal" fill="#666666">349525/349525</text>
+  <rect x="200" y="70" width="90" height="320" fill="none" stroke="#cbd5e0" stroke-width="1.5"/>
+  <rect x="200" y="388.00" width="90" height="2.00" fill="#2b6cb0" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <rect x="200" y="372.99" width="90" height="15.01" fill="#718096" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <text x="245" y="384" font-size="10" text-anchor="middle" font-weight="normal" fill="#ffffff">e7</text>
+  <rect x="200" y="312.05" width="90" height="60.94" fill="#805ad5" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <text x="245" y="346" font-size="10" text-anchor="middle" font-weight="normal" fill="#ffffff">e11</text>
+  <rect x="200" y="310.05" width="90" height="2.00" fill="#d53f8c" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <rect x="200" y="66.30" width="90" height="243.75" fill="#c53030" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <text x="245" y="192" font-size="10" text-anchor="middle" font-weight="normal" fill="#ffffff">e14</text>
+  <text x="245" y="410" font-size="12" text-anchor="middle" font-weight="bold" fill="#111111">bin 1</text>
+  <text x="245" y="426" font-size="10" text-anchor="middle" font-weight="normal" fill="#666666">349462/349525</text>
+  <rect x="330" y="70" width="90" height="320" fill="none" stroke="#cbd5e0" stroke-width="1.5"/>
+  <rect x="330" y="374.06" width="90" height="15.94" fill="#38a169" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <text x="375" y="386" font-size="10" text-anchor="middle" font-weight="normal" fill="#ffffff">e2</text>
+  <rect x="330" y="370.31" width="90" height="3.75" fill="#d53f8c" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <rect x="330" y="310.25" width="90" height="60.06" fill="#38a169" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <text x="375" y="344" font-size="10" text-anchor="middle" font-weight="normal" fill="#ffffff">e10</text>
+  <rect x="330" y="70.02" width="90" height="240.23" fill="#319795" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <text x="375" y="194" font-size="10" text-anchor="middle" font-weight="normal" fill="#ffffff">e13</text>
+  <text x="375" y="410" font-size="12" text-anchor="middle" font-weight="bold" fill="#111111">bin 2</text>
+  <text x="375" y="426" font-size="10" text-anchor="middle" font-weight="normal" fill="#666666">349508/349525</text>
+  <rect x="460" y="70" width="90" height="320" fill="none" stroke="#cbd5e0" stroke-width="1.5"/>
+  <rect x="460" y="388.00" width="90" height="2.00" fill="#c53030" fill-opacity="0.85" stroke="#ffffff" stroke-width="0.6"/>
+  <text x="505" y="410" font-size="12" text-anchor="middle" font-weight="bold" fill="#111111">bin 3</text>
+  <text x="505" y="426" font-size="10" text-anchor="middle" font-weight="normal" fill="#666666">80/349525</text>
+  <text x="70" y="460" font-size="11" text-anchor="start" font-weight="normal" fill="#333333">Optimality: exhaustive no-3-bin search proves LB; first-fit-decreasing witness proves UB.</text>
+  <text x="70" y="476" font-size="11" text-anchor="start" font-weight="normal" fill="#333333">LB == UB => PROVEN_OPTIMAL, non-circular.</text>
+</svg>

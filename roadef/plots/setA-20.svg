@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="300" viewBox="0 0 780 300" font-family="Helvetica,Arial,sans-serif">
+  <title>ROADEF T-ASR setA-20</title>
+  <rect x="0" y="0" width="780" height="300" fill="#ffffff"/>
+  <text x="30" y="30" font-size="14" text-anchor="start" font-weight="bold" fill="#111111">OptFin OR-Lab  |  ROADEF 2026 Keep the Flow! (T-ASR)  |  instance: setA-20 (dataset A)</text>
+  <text x="30" y="52" font-size="12" text-anchor="start" font-weight="bold" fill="#b7791f">state = FEASIBLE   checker_valid = true</text>
+  <text x="30" y="72" font-size="12" text-anchor="start" font-weight="normal" fill="#444444">UB (max MLU, official checker) = 0.991312    LB (independent cut) = n/a    gap = n/a</text>
+  <rect x="30" y="96" width="700" height="30" fill="#edf2f7" stroke="#cbd5e0" stroke-width="1"/>
+  <rect x="30" y="96" width="693.92" height="30" fill="#dd6b20" fill-opacity="0.85"/>
+  <line x1="730" y1="92" x2="730" y2="130" stroke="#718096" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="730" y="142" font-size="9" text-anchor="end" font-weight="normal" fill="#718096">MLU = 1.0 (link saturation)</text>
+  <text x="34" y="117" font-size="11" text-anchor="start" font-weight="bold" fill="#ffffff">MLU = 0.991312</text>
+  <text x="30" y="170" font-size="12" text-anchor="start" font-weight="bold" fill="#333333">OptFin SR-path witness (our content, official submission format):</text>
+  <text x="30" y="188" font-size="11" text-anchor="start" font-weight="normal" fill="#444444">explicit SR-paths = 12000   demands routed = 6000   time slots = [0..1]   waypoints = 2   multi-segment rows = 0</text>
+  <text x="30" y="218" font-size="11" text-anchor="start" font-weight="normal" fill="#b7791f">No independent lower bound asserted for this instance => FEASIBLE (no optimality claim).</text>
+  <text x="30" y="286" font-size="9" text-anchor="start" font-weight="normal" fill="#718096">Instance data is third-party (ROADEF organizers) - linked, not republished. See roadef/README.md.</text>
+</svg>

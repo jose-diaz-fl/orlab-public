@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="300" viewBox="0 0 780 300" font-family="Helvetica,Arial,sans-serif">
+  <title>ROADEF T-ASR setB-09</title>
+  <rect x="0" y="0" width="780" height="300" fill="#ffffff"/>
+  <text x="30" y="30" font-size="14" text-anchor="start" font-weight="bold" fill="#111111">OptFin OR-Lab  |  ROADEF 2026 Keep the Flow! (T-ASR)  |  instance: setB-09 (dataset B)</text>
+  <text x="30" y="52" font-size="12" text-anchor="start" font-weight="bold" fill="#2f855a">state = PROVEN_OPTIMAL   checker_valid = true</text>
+  <text x="30" y="72" font-size="12" text-anchor="start" font-weight="normal" fill="#444444">UB (max MLU, official checker) = 1.000001    LB (independent cut) = 1.000001    gap = 0.0%</text>
+  <rect x="30" y="96" width="700" height="30" fill="#edf2f7" stroke="#cbd5e0" stroke-width="1"/>
+  <rect x="30" y="96" width="700.00" height="30" fill="#c53030" fill-opacity="0.85"/>
+  <line x1="730" y1="92" x2="730" y2="130" stroke="#718096" stroke-width="1" stroke-dasharray="3,3"/>
+  <text x="730" y="142" font-size="9" text-anchor="end" font-weight="normal" fill="#718096">MLU = 1.0 (link saturation)</text>
+  <text x="34" y="117" font-size="11" text-anchor="start" font-weight="bold" fill="#ffffff">MLU = 1.000001</text>
+  <text x="30" y="170" font-size="12" text-anchor="start" font-weight="bold" fill="#333333">OptFin SR-path witness (our content, official submission format):</text>
+  <text x="30" y="188" font-size="11" text-anchor="start" font-weight="normal" fill="#444444">empty SR-path set = implicit-default (ECMP) routing; the checker rates it valid on every T-ASR instance.</text>
+  <text x="30" y="218" font-size="11" text-anchor="start" font-weight="normal" fill="#333333">LB certificate: directed-capacity cut (singleton_out) at node 775, slot 6, capacity 4.0, forced crossing demand 4.000004</text>
+  <text x="30" y="234" font-size="11" text-anchor="start" font-weight="normal" fill="#2f855a">LB == UB (6 dp) with independently re-derived cut => PROVEN_OPTIMAL: no routing can lower the MLU.</text>
+  <text x="30" y="286" font-size="9" text-anchor="start" font-weight="normal" fill="#718096">Instance data is third-party (ROADEF organizers) - linked, not republished. See roadef/README.md.</text>
+</svg>

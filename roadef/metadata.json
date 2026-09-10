@@ -1,0 +1,691 @@
+{
+  "attribution": "OptFin OR-Lab - https://optfin.org",
+  "challenge": "EURO/ROADEF 2026 - Keep the Flow! (T-ASR, segment-routing MLU minimization)",
+  "instances": [
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-01",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 11,
+        "num_srpaths": 12,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 12
+      },
+      "source_srpaths_sha256": "20dbd025d5a9469dd3bcbd5170d20a80e143de172a4a0a3b28e627c91b45305f",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.929383
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-02",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 13,
+        "num_srpaths": 13,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 13
+      },
+      "source_srpaths_sha256": "7bad4283bb048e7352bf4fc5b6b34b76ad85a4525aefa167a4104490d0850fdb",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.903074
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-03",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 1,
+        "num_demands": 10,
+        "num_srpaths": 10,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 11
+      },
+      "source_srpaths_sha256": "66007a5fc445b7f5fefe9a2558063140ac8cdee738643e98b3eff00d0ccc42b7",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.943543
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-04",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 200,
+        "num_srpaths": 400,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 174
+      },
+      "source_srpaths_sha256": "ea12d1a7376df5de4d9b018fd6b26d54dbc263109819d39c3fa1c262c1f609fa",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.582809
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-05",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 1,
+        "num_srpaths": 2,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 2
+      },
+      "source_srpaths_sha256": "b0fac282b2ec64fb4cab5e07132fb5d0e39a6363b88d64353e378efaf639db90",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.204985
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-06",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 500,
+        "num_srpaths": 1000,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 204
+      },
+      "source_srpaths_sha256": "fdd2527881a2d6ce0bd6397f57223130aa0fa074d01f9e517d413624545e7e31",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.239436
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-07",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 1,
+        "num_demands": 16,
+        "num_srpaths": 16,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 17
+      },
+      "source_srpaths_sha256": "d46deeb1ab8ee45a5ace55d3d638860dc7b5f3f38da7d95681c80220c204599b",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.907989
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-08",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 2,
+        "num_demands": 5,
+        "num_srpaths": 8,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 10
+      },
+      "source_srpaths_sha256": "003ed755a0df85a5ec6f7137d9aa0cb14500c62fa76076ad1efecee8e18f41f2",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.39131
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-09",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 6,
+        "num_srpaths": 6,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 6
+      },
+      "source_srpaths_sha256": "dc4d0e98024cb5969ccef6c34946dc68a7302a7e62522b36a53ff7d6daf5f845",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.84965
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-10",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 350,
+        "num_demands": 324,
+        "num_srpaths": 648,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 1564
+      },
+      "source_srpaths_sha256": "c63730abaa10364dd8f66acb8fd4ddea79fa329c9751d82bf7b8902cb09cba9c",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.097826
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-11",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 3,
+        "num_srpaths": 3,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 3
+      },
+      "source_srpaths_sha256": "76bc970546f7f29ddf64dde846f1cf24c8b675f57af043db319b5f8b2427be3a",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.785788
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-12",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 1,
+        "num_srpaths": 1,
+        "slot_max": 0,
+        "slot_min": 0,
+        "total_waypoints": 1
+      },
+      "source_srpaths_sha256": "fe474b015f8a7d483ae37995a8f5576db544481cb66d58c771c2bb90655a4fce",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.879872
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-13",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 998,
+        "num_demands": 559,
+        "num_srpaths": 1118,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 4216
+      },
+      "source_srpaths_sha256": "e53c4be9ca3e898bda1266d1f5a83b063668e3d8c74d45cd1577ba64da75f4e4",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.136752
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-14",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 8,
+        "num_srpaths": 12,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 12
+      },
+      "source_srpaths_sha256": "8d984a483af5523105aca4f0e12cd59cb14b293e5a79bc63f37de781e4a4366d",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.517621
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-15",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 6,
+        "num_srpaths": 6,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 6
+      },
+      "source_srpaths_sha256": "4b91b71018f83ae2ee3fbcd196f23d67a5b8ea3a34cf4efcb89278060c015146",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.898695
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-16",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 4800,
+        "num_srpaths": 9600,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 426
+      },
+      "source_srpaths_sha256": "49e59d56d1bcb1f2f6665275bbee73f86c274ef616d2c730fde21a268c64c4d6",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.57377
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-17",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 0,
+        "num_srpaths": 0,
+        "slot_max": null,
+        "slot_min": null,
+        "total_waypoints": 0
+      },
+      "source_srpaths_sha256": "5076f51c5dd6a672115d23326f758ded1908e55f2e00172a684cbe7d8c7c76f0",
+      "state": "FEASIBLE",
+      "ub_mlu": 1.000075
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-18",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 4,
+        "num_srpaths": 4,
+        "slot_max": 1,
+        "slot_min": 1,
+        "total_waypoints": 4
+      },
+      "source_srpaths_sha256": "573eb91424db8686d6168138814fa4b072c6da400ed862329e9b33fa098c0d9b",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.999998
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-19",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 6000,
+        "num_srpaths": 12000,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 3204
+      },
+      "source_srpaths_sha256": "8bf2cfb7c6b7467cfce1da75b4effea7eff645a8c2011cef722be7da2d808321",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.166276
+    },
+    {
+      "checker_valid": true,
+      "dataset": "A",
+      "gap_percent": null,
+      "id": "setA-20",
+      "lb": null,
+      "lb_certificate": null,
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 6000,
+        "num_srpaths": 12000,
+        "slot_max": 1,
+        "slot_min": 0,
+        "total_waypoints": 2
+      },
+      "source_srpaths_sha256": "9311c2383cc01e759f014c9546405f6c5f94990a408e77d26b4764382e85ee68",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.991312
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 277.7122,
+      "id": "setB-01",
+      "lb": 0.141921,
+      "lb_certificate": {
+        "capacity": 9.0,
+        "lb_type": "singleton_in",
+        "node": 122,
+        "slot": 9
+      },
+      "solution_stats": {
+        "multi_segment_rows": 3,
+        "num_demands": 11,
+        "num_srpaths": 29,
+        "slot_max": 11,
+        "slot_min": 4,
+        "total_waypoints": 32
+      },
+      "source_srpaths_sha256": "8cc1f6233ad689503d4edf7e4d6a4c2db77bc284bf46b3a77110426b1310d72b",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.536053
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 0.0,
+      "id": "setB-02",
+      "lb": 1.0,
+      "lb_certificate": {
+        "capacity": 7.0,
+        "crossing_demand": 7.0000029999999995,
+        "lb_type": "singleton_out",
+        "node": 31,
+        "slot": 1
+      },
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 0,
+        "num_srpaths": 0,
+        "slot_max": null,
+        "slot_min": null,
+        "total_waypoints": 0
+      },
+      "source_srpaths_sha256": "512d5fa3361a010795d2f7a5fbc40ada7f14962576f35887ec7166b42cd3ebe4",
+      "state": "PROVEN_OPTIMAL",
+      "ub_mlu": 1.0
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 0.0,
+      "id": "setB-03",
+      "lb": 1.0,
+      "lb_certificate": {
+        "capacity": 50.0,
+        "crossing_demand": 50.00000000000001,
+        "lb_type": "singleton_out",
+        "node": 11,
+        "slot": 4
+      },
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 0,
+        "num_srpaths": 0,
+        "slot_max": null,
+        "slot_min": null,
+        "total_waypoints": 0
+      },
+      "source_srpaths_sha256": "512d5fa3361a010795d2f7a5fbc40ada7f14962576f35887ec7166b42cd3ebe4",
+      "state": "PROVEN_OPTIMAL",
+      "ub_mlu": 1.0
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 16.2383,
+      "id": "setB-04",
+      "lb": 0.6694,
+      "lb_certificate": {
+        "capacity": 2.0,
+        "lb_type": "singleton_out",
+        "node": 317,
+        "slot": 1
+      },
+      "solution_stats": {
+        "multi_segment_rows": 7,
+        "num_demands": 24,
+        "num_srpaths": 28,
+        "slot_max": 11,
+        "slot_min": 0,
+        "total_waypoints": 35
+      },
+      "source_srpaths_sha256": "4152db9bec98b867283124cbcf845622e76de5a71e271021e3146a5f2646d31f",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.778099
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 592.3929,
+      "id": "setB-05",
+      "lb": 0.091323,
+      "lb_certificate": {
+        "capacity": 100100.0,
+        "lb_type": "singleton_out",
+        "node": 57,
+        "slot": 4
+      },
+      "solution_stats": {
+        "multi_segment_rows": 4,
+        "num_demands": 8,
+        "num_srpaths": 41,
+        "slot_max": 11,
+        "slot_min": 0,
+        "total_waypoints": 45
+      },
+      "source_srpaths_sha256": "2718a2d43642c2118bbadb31e8d02497e5f225b61aba27c07ed1d19826f78c69",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.632314
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 0.0,
+      "id": "setB-06",
+      "lb": 1.0,
+      "lb_certificate": {
+        "capacity": 29.0,
+        "crossing_demand": 29.000014,
+        "lb_type": "singleton_in",
+        "node": 55,
+        "slot": 5
+      },
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 0,
+        "num_srpaths": 0,
+        "slot_max": null,
+        "slot_min": null,
+        "total_waypoints": 0
+      },
+      "source_srpaths_sha256": "512d5fa3361a010795d2f7a5fbc40ada7f14962576f35887ec7166b42cd3ebe4",
+      "state": "PROVEN_OPTIMAL",
+      "ub_mlu": 1.0
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 2.8126,
+      "id": "setB-07",
+      "lb": 0.664909,
+      "lb_certificate": {
+        "capacity": 1.0,
+        "lb_type": "singleton_in",
+        "node": 134,
+        "slot": 8
+      },
+      "solution_stats": {
+        "multi_segment_rows": 4,
+        "num_demands": 16,
+        "num_srpaths": 18,
+        "slot_max": 11,
+        "slot_min": 0,
+        "total_waypoints": 22
+      },
+      "source_srpaths_sha256": "18eba6a0c53f693cf66a636506fda6b17196fe11728ee3bfaacb82cfcd03cbd0",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.68361
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 0.0,
+      "id": "setB-08",
+      "lb": 1.000001,
+      "lb_certificate": {
+        "capacity": 1.0,
+        "crossing_demand": 1.0000010000000001,
+        "lb_type": "singleton_in",
+        "node": 645,
+        "slot": 4
+      },
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 0,
+        "num_srpaths": 0,
+        "slot_max": null,
+        "slot_min": null,
+        "total_waypoints": 0
+      },
+      "source_srpaths_sha256": "512d5fa3361a010795d2f7a5fbc40ada7f14962576f35887ec7166b42cd3ebe4",
+      "state": "PROVEN_OPTIMAL",
+      "ub_mlu": 1.000001
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 0.0,
+      "id": "setB-09",
+      "lb": 1.000001,
+      "lb_certificate": {
+        "capacity": 4.0,
+        "crossing_demand": 4.000004,
+        "lb_type": "singleton_out",
+        "node": 775,
+        "slot": 6
+      },
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 0,
+        "num_srpaths": 0,
+        "slot_max": null,
+        "slot_min": null,
+        "total_waypoints": 0
+      },
+      "source_srpaths_sha256": "512d5fa3361a010795d2f7a5fbc40ada7f14962576f35887ec7166b42cd3ebe4",
+      "state": "PROVEN_OPTIMAL",
+      "ub_mlu": 1.000001
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 0.0,
+      "id": "setB-10",
+      "lb": 0.992426,
+      "lb_certificate": {
+        "capacity": 18.0,
+        "crossing_demand": 17.863673,
+        "lb_type": "singleton_in",
+        "node": 661,
+        "slot": 4
+      },
+      "solution_stats": {
+        "multi_segment_rows": 0,
+        "num_demands": 1,
+        "num_srpaths": 1,
+        "slot_max": 7,
+        "slot_min": 7,
+        "total_waypoints": 1
+      },
+      "source_srpaths_sha256": "2e36f714762c1b526e4ecfa7a82dab470990170aea90408bcc0291dd7038fe22",
+      "state": "PROVEN_OPTIMAL",
+      "ub_mlu": 0.992426
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 112.5657,
+      "id": "setB-11",
+      "lb": 0.363609,
+      "lb_certificate": {
+        "capacity": 173.0,
+        "lb_type": "singleton_in",
+        "node": 231,
+        "slot": 8
+      },
+      "solution_stats": {
+        "multi_segment_rows": 5,
+        "num_demands": 8,
+        "num_srpaths": 8,
+        "slot_max": 11,
+        "slot_min": 4,
+        "total_waypoints": 13
+      },
+      "source_srpaths_sha256": "f256883ca41fdcff2fc50429b5a2253d19f6c9992e2267b1c90e9f25e4eee031",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.772908
+    },
+    {
+      "checker_valid": true,
+      "dataset": "B",
+      "gap_percent": 29.416,
+      "id": "setB-12",
+      "lb": 0.603087,
+      "lb_certificate": {
+        "capacity": 215.0,
+        "lb_type": "singleton_out",
+        "node": 77,
+        "slot": 7
+      },
+      "solution_stats": {
+        "multi_segment_rows": 2,
+        "num_demands": 3,
+        "num_srpaths": 8,
+        "slot_max": 7,
+        "slot_min": 4,
+        "total_waypoints": 10
+      },
+      "source_srpaths_sha256": "7ae346e232049667386ee089539670050b3b3491c45345c20fcf5616ec44cd87",
+      "state": "FEASIBLE",
+      "ub_mlu": 0.780491
+    }
+  ],
+  "instances_are_third_party": true,
+  "objective": "minimize lexicographic maximum link utilization (MLU) then secondary load",
+  "optimality_doctrine": "PROVEN_OPTIMAL only where an independently re-derived directed-capacity-cut lower bound equals the checker-validated upper bound to 6 decimals; otherwise FEASIBLE with reported gap; OPEN where no feasible witness exists.",
+  "oracle": {
+    "max_decimal_places": 6,
+    "name": "official ROADEF 2026 checker",
+    "note": "the official checker is the sole feasibility+objective oracle; it is third-party and NOT redistributed here",
+    "version": "checker-v1.0.0"
+  },
+  "schema": "orlab-public/roadef-metadata/v1",
+  "team": "S84"
+}
